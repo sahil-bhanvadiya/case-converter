@@ -1,0 +1,45 @@
+
+
+
+.btn-primary {
+    transition: all .5s ease;
+    color: #fff;
+    border: 3px solid white;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 17px;
+    background-color : transparent;
+    outline: none;
+    background-color: #3204fd;
+    border-color: #3204fd;
+    height: 42px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-primary:hover {
+    color: #001F3F;
+    background-color: #fff;
+}
+
+.btn-primary:disabled {
+    color: #fff;
+    background-color: #552fffbd;
+    border-color: #552fffbd;
+    cursor: auto;
+}
+
+.form-control{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prev{
+    color: #fff;
+    background-color: rgb(0 0 0 / 42%);
+    height: 20vh;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+}
+
