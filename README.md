@@ -1,9 +1,7 @@
 # case-converter
-Case Converter is a word counter and a character counting utility which can be used to manipulate your text in the way you want.\
-You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to lowercase and lowercase to Uppercase.
-
-# Access through this link
 [case-converter web app](http://sahil-bhanvadiya.github.io/case-converter)\
+Case Converter is a word counter and a character counting utility which can be used to manipulate your text in the way you want.\
+You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to lowercase and lowercase to Uppercase.\
 please let me know if you find any bug.
 
 ## Getting Started with Create React App
